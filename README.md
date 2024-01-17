@@ -58,10 +58,19 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
 ## Must Papers
 | Title  | Link | Read Status | References |
 | ------------- | ------------- | ------------- | ------------- |
-| Attention is all you need  | [link](https://arxiv.org/abs/1706.03762)  | Yes | [1](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
+| Attention is all you need  | [link](https://arxiv.org/abs/1706.03762)  | Yes | [1](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention) |
+| Scaling Laws for Neural Language Models | [link](https://arxiv.org/abs/2001.08361)  | No | 
+| Instruction Tuning With GPT-4  | [link](https://arxiv.org/pdf/2304.03277.pdf)  | No | 
 | AlpaGasus: Training A Better Alpaca with Fewer Data  | [link](https://arxiv.org/abs/2307.08701)  | No | 
 | Instruction Tuning for Large Language Models: A Survey  | [link](https://arxiv.org/abs/2308.10792)  | No | 
-| Training language models to follow instructions with human feedback (OpenAI's InstructGPT)   | [link](https://arxiv.org/abs/2203.02155))  | No | 
+| Training language models to follow instructions with human feedback (OpenAI's InstructGPT)   | [link](https://arxiv.org/abs/2203.02155)  | No | 
+
 
 ## RLHF 
 - References: [1](https://huyenchip.com/2023/05/02/rlhf.html), [2](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
+
+## Large Language Models (SLM)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1aW4r4WqXZ_RcR9GTpCz7Lwyc2fZP1kpk/edit?usp=sharing&ouid=115305872048583868247&rtpof=true&sd=true) (LLM sheet)
+
+## Small Language Models (SLM)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1aW4r4WqXZ_RcR9GTpCz7Lwyc2fZP1kpk/edit?usp=sharing&ouid=115305872048583868247&rtpof=true&sd=true) (SLM sheet)
