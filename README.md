@@ -7,6 +7,7 @@
 
 - GANS
   - [Applications of GANs](#applications-of-gans)
+  - [Papers](gans)
 
 ## Applications of GANs 
 - text-to-image translation
@@ -80,3 +81,29 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
 
 ## Small Language Models (SLM)
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1aW4r4WqXZ_RcR9GTpCz7Lwyc2fZP1kpk/edit?usp=sharing&ouid=115305872048583868247&rtpof=true&sd=true) (SLM sheet)
+
+## LLM Aspects
+- Reliability
+  - Inconsistent Outputs
+    - Mitigations:
+      - [OpenAI techniques](https://cookbook.openai.com/articles/techniques_to_improve_reliability)
+      - [OpenAI has added seed and other param for model]()
+      - [Build best software engineering best practices around it to handle]()
+  - Ambigous output format
+    - [Langchain output parser](https://python.langchain.com/docs/modules/model_io/output_parsers/)
+- Prompt 
+  - Prompt Evaluation
+    - Examine few shot prompt engineering
+      - Make sure model understand few shot examples
+        - test query with similar examples
+        - test with complex queries
+        - Ask for more examples
+        - Ask for exaplanations about few shot examples
+  - Prompt Versioning
+    - Git
+  - Prompt Optimization
+    - Experiment with various prompt engineering techniques
+- Cost & Latency
+  - Cost: Based on use case, compute input and output tokens generation and calculate cost using model pricing.
+  - Latency: 
+- Security
