@@ -2,7 +2,12 @@
 - add table of content
 - make sub topic accessible over links
 - add point wise
-  
+
+## Table of content 
+
+- GANS
+  - [Applications of GANs](#applications-of-gans)
+
 ## Applications of GANs 
 - text-to-image translation
   - Creating Art
@@ -30,6 +35,7 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
     
 | Technique  | Short Notes | References |
 | ------------- | ------------- | ------------- |
+| ReAct |  **What?** <br> * Reason and Action behaviour in prompt <br> **Why?** <br> * Reason only or Action Only doesn't perform better <br> **When?** <br> * CoT or other technique is not accurate <br> <br> **How?** <br> * Use specific prompt | [1](https://blog.research.google/2022/11/react-synergizing-reasoning-and-acting.html), [2](https://arxiv.org/pdf/2210.03629.pdf) |
 | Meta Prompt  |  **What?** <br> * Improvise prompt <br> **Why?** <br> * Prompt is an iterative and time consuming <br> **When?** <br> * Optimize prompt <br> * When you feel exhausted while optimizing prompt for a specific task <br> **How?** <br> * Use LLM + prompt for optimizing an specific prompt (ex: by satisfying user query) | [1](https://noahgoodman.substack.com/p/meta-prompt-a-simple-self-improving), [2](https://www.linkedin.com/pulse/meta-prompt-engineering-steve-ball/), [3](https://www.reddit.com/r/ChatGPT/comments/11b08ug/meta_prompt_engineering_chatgpt_creates_amazing/) |
 
 ## Fine-tune 
