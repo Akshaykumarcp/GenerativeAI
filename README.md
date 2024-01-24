@@ -121,3 +121,23 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
     - Input tokens: will be able to process parallely
     - Output tokens: Model will generate token sequentially. More tokens, more time
 - Security
+
+
+## Tools/Softwares for LLM development
+
+- Application Development framework
+  - Langchain
+    - https://python.langchain.com/en/latest/index.html
+  - LLAMAIndex
+    - https://github.com/jerryjliu/llama_index
+  - Vector Database
+    - Pinecone
+      - https://www.pinecone.io/
+    - Chroma
+      - https://www.trychroma.com/
+- LLM Experiment tracking
+  - weights and biases
+    - https://wandb.ai/site/monitoring
+  - Truelens
+    - https://github.com/truera/trulens/
+   
