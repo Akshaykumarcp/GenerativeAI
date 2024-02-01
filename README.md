@@ -75,7 +75,7 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
 | AlpaGasus: Training A Better Alpaca with Fewer Data  | [link](https://arxiv.org/abs/2307.08701)  | No | 
 | Instruction Tuning for Large Language Models: A Survey  | [link](https://arxiv.org/abs/2308.10792)  | No | 
 | Training language models to follow instructions with human feedback (OpenAI's InstructGPT)   | [link](https://arxiv.org/abs/2203.02155)  | No | 
-
+| Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE)   | [link](https://arxiv.org/abs/2212.10496)  | No | 
 
 ## RLHF 
 - References: [1](https://huyenchip.com/2023/05/02/rlhf.html), [2](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
@@ -140,4 +140,6 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
     - https://wandb.ai/site/monitoring
   - Truelens
     - https://github.com/truera/trulens/
+- Input/Output Safegaurd
+  - [LLAMA gaurd](https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/)
    
