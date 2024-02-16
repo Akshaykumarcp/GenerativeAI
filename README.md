@@ -74,7 +74,7 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
 | Instruction Tuning With GPT-4  | [link](https://arxiv.org/pdf/2304.03277.pdf)  | No | 
 | AlpaGasus: Training A Better Alpaca with Fewer Data  | [link](https://arxiv.org/abs/2307.08701)  | No | 
 | Instruction Tuning for Large Language Models: A Survey  | [link](https://arxiv.org/abs/2308.10792)  | No | 
-| Training language models to follow instructions with human feedback (OpenAI's InstructGPT)   | [link](https://arxiv.org/abs/2203.02155)  | No | 
+| Training language models to follow instructions with human feedback (OpenAI's InstructGPT)   | [link](https://arxiv.org/abs/2203.02155)  | Yes | [1](https://github.com/openai/following-instructions-human-feedback) |
 | Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE)   | [link](https://arxiv.org/abs/2212.10496)  | No | 
 
 ## RLHF 
