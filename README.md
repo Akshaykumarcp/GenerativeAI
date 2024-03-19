@@ -76,6 +76,8 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
 | Instruction Tuning for Large Language Models: A Survey  | [link](https://arxiv.org/abs/2308.10792)  | No | 
 | Training language models to follow instructions with human feedback (OpenAI's InstructGPT)   | [link](https://arxiv.org/abs/2203.02155)  | Yes | [1](https://github.com/openai/following-instructions-human-feedback) |
 | Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE)   | [link](https://arxiv.org/abs/2212.10496)  | No | 
+| QLoRA: Efficient Finetuning of Quantized LLMs | [link](https://arxiv.org/abs/2305.14314)  | No |  
+
 
 ## RLHF 
 - References: [1](https://huyenchip.com/2023/05/02/rlhf.html), [2](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
