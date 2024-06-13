@@ -78,7 +78,14 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
 | Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE)   | [link](https://arxiv.org/abs/2212.10496)  | No | 
 | QLoRA: Efficient Finetuning of Quantized LLMs | [link](https://arxiv.org/abs/2305.14314)  | No |  
 
-
+## Generative AI services on:
+- AWS
+  - [Amazon bedrock](https://aws.amazon.com/bedrock/)
+    - Foundation model as a service
+  - [Amazon Sagemaker](https://aws.amazon.com/sagemaker/), [Amazon Sagemaker Jumpstart](https://aws.amazon.com/sagemaker/jumpstart/)
+    - Build own models
+  - Training infra
+  
 ## RLHF 
 - References: [1](https://huyenchip.com/2023/05/02/rlhf.html), [2](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 
