@@ -152,3 +152,6 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
 - Input/Output Safegaurd
   - [LLAMA gaurd](https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/)
    
+## Mixture of experts 
+  - Ref
+    - [Hugging face](https://huggingface.co/blog/moe)
