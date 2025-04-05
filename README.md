@@ -145,3 +145,8 @@ GANs is successful ability to model high-dimensional data, handle missing data, 
 ## Mixture of experts 
   - Ref
     - [Hugging face](https://huggingface.co/blog/moe)
+    - 
+## Courses
+- [Anthropic](https://github.com/anthropics/courses/tree/master)
+  - [anthropic api fundamentals](https://github.com/anthropics/courses/tree/master/anthropic_api_fundamentals)
+  - etc
